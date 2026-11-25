@@ -1,0 +1,22 @@
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# Credentials
+.env
+.env.*
+
+# Private student records
+student.json
